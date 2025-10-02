@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm Aishwarya Anandan. [cite: 19]
+### Hello there! 👋 I'm Aishwarya Anandan. 
 
 I'm always open to connecting with new people for advice and knowledge sharing. Feel free to reach out!
 
@@ -9,15 +9,15 @@ I'm always open to connecting with new people for advice and knowledge sharing. 
 
 ---
 
-[cite_start]I am a Master's in Business Analytics candidate at the Isenberg School of Management, UMass Amherst, expecting to graduate in Fall 2025[cite: 23, 96]. [cite_start]I thrive at the intersection of business and technology, focusing on using data to fix inefficiencies and create impactful solutions[cite: 26]. [cite_start]In addition to my studies, I currently serve as the Vice President of Operations & Marketing for the Graduate Women in Business[cite: 42].
+I am a Master's in Business Analytics candidate at the Isenberg School of Management, UMass Amherst, expecting to graduate in Fall 2025. I thrive at the intersection of business and technology, focusing on using data to fix inefficiencies and create impactful solutions. In addition to my studies, I currently serve as the Vice President of Operations & Marketing for the Graduate Women in Business.
 
-[cite_start]My academic journey is built on a foundation of four transformative years at ExxonMobil[cite: 24], where I honed my skills in data analysis, operations, and vendor management. Some highlights include:
-- [cite_start]As a **Business Intelligence Data Analyst**, I developed comprehensive SLA, KPI, and customer experience (XLA) dashboards for internal products using Tableau, Power BI, and ServiceNow[cite: 60].
-- [cite_start]I performed in-depth analysis of ticketing data, which led to improved ticket health and reduced volume through the implementation of automated solutions[cite: 62].
-- [cite_start]As a **Business Analyst for Retail**, I managed Security and Controls for a vendor team of 70 members [cite: 69] [cite_start]and oversaw help desk reporting for 14,000 gas station sites across North America[cite: 70].
+My academic journey is built on a foundation of four transformative years at ExxonMobil, where I honed my skills in data analysis, operations, and vendor management. Some highlights include:
+- As a **Business Intelligence Data Analyst**, I developed comprehensive SLA, KPI, and customer experience (XLA) dashboards for internal products using Tableau, Power BI, and ServiceNow.
+- I performed in-depth analysis of ticketing data, which led to improved ticket health and reduced volume through the implementation of automated solutions.
+- As a **Business Analyst for Retail**, I managed Security and Controls for a vendor team of 70 members and oversaw help desk reporting for 14,000 gas station sites across North America.
 
-[cite_start]More recently, I completed an IT Contracts and Vendor Management internship at Batesville[cite: 25, 32], where I:
-- [cite_start]Developed interactive dashboards and reports using Power BI, SQL, Excel, and Smartsheet to enhance leadership visibility[cite: 35, 36].
-- [cite_start]Streamlined vendor management processes and automated trackers, leading to increased operational efficiency[cite: 37, 38].
+More recently, I completed an IT Contracts and Vendor Management internship at Batesville, where I:
+- Developed interactive dashboards and reports using Power BI, SQL, Excel, and Smartsheet to enhance leadership visibility.
+- Streamlined vendor management processes and automated trackers, leading to increased operational efficiency.
 
-[cite_start]I am now advancing my expertise in Python and MySQL and have begun an AI journey, exploring how emerging technologies like those from Hugging Face can be used to drive smarter, real-world decisions[cite: 27].
+I am now advancing my expertise in Python and MySQL and have begun an AI journey, exploring how emerging technologies like those from Hugging Face can be used to drive smarter, real-world decisions.
