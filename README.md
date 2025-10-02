@@ -1,4 +1,4 @@
-### Hello there! [cite_start]👋 I'm Aishwarya Anandan. [cite: 19]
+### Hello there! 👋 I'm Aishwarya Anandan. [cite: 19]
 
 I'm always open to connecting with new people for advice and knowledge sharing. Feel free to reach out!
 
